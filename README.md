@@ -1,9 +1,8 @@
 # codedMessage
 Coding test
 
-I am someone that when I see a problem I have to solve it.  Recently I was looking at a company called Fog Creek 
-and they had this code test.  I didn't apply for the job because I don't want to move to New York, but I had to do
-the challenge.  I place the code here to show other protential employers what my codeing looks like.
+I am someone that when I see a problem I have to solve it.  Recently I was looking at the job page of a software company  
+and they had this code test.  I didn't apply for the job because I do not want to move to New York (other cities are ok), but this challenge looked like fun and I had to do it.  I place the code here to show other protential employers what my code looks like.
 
 Application Problem
 
